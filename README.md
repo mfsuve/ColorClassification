@@ -1,7 +1,7 @@
 # Color Classification
 In this project, classifying images using their color features is implemented.
 
-Classes consist of 8 colors withf 120 training images
+Classes consist of 8 colors with 120 training images
 * black
 * blue
 * green
