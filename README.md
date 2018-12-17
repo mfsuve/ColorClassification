@@ -15,6 +15,8 @@ All the training images is downloaded online using `dataset_creator.py` script. 
 
 # Example Outputs
 
-![Black Color Classification Result] (https://raw.githubusercontent.com/mfsuve/ColorClassification/master/Results/black%20example.png)
-![Green Color Classification Result] (https://raw.githubusercontent.com/mfsuve/ColorClassification/master/Results/green%20example.png)
-![Blue Color Classification Result] (https://raw.githubusercontent.com/mfsuve/ColorClassification/master/Results/blue%20example.png)
+![Black Color Classification Result](https://raw.githubusercontent.com/mfsuve/ColorClassification/master/Results/black%20example.png)
+
+![Green Color Classification Result](https://raw.githubusercontent.com/mfsuve/ColorClassification/master/Results/green%20example.png)
+
+![Blue Color Classification Result](https://raw.githubusercontent.com/mfsuve/ColorClassification/master/Results/blue%20example.png)
