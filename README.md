@@ -14,6 +14,7 @@ Classes consist of 8 colors withf 120 training images
 All the training images is downloaded online using `dataset_creator.py` script. Classification is done using KNN algorithm with `k=5`.
 
 # Example Outputs
+Query image on the left, 5 neighbor images from training set on the right
 
 ![Black Color Classification Result](https://raw.githubusercontent.com/mfsuve/ColorClassification/master/Results/black%20example.png)
 
